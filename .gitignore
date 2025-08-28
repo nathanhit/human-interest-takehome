@@ -8,6 +8,7 @@ hsa-app/build/
 hsa-app/dist/
 
 # Environment variables
+hsa-server/.env
 .env
 .env.local
 .env.development.local
